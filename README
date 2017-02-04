@@ -6,5 +6,9 @@ git commit -
 # remove a commit but keep the change to the 
 # remove a commit and also revert back to the last version. 
 
-Three elements: your local, your git, your github.
+Three elements: your local, git, hub.
 
+
+git add; git commit; gig push; git pull
+
+If a commit to git was not pushed to hub and then make a change locally and commited to git. You will encounter an error when pushing the lastest committo hub.

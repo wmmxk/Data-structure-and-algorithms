@@ -12,3 +12,5 @@ Three elements: your local, git, hub.
 git add; git commit; gig push; git pull
 
 If a commit to git was not pushed to hub and then make a change locally and commited to git. You will encounter an error when pushing the lastest committo hub.
+
+Local and git were reseted

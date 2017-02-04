@@ -13,16 +13,4 @@ git add; git commit; gig push; git pull
 
 If a commit to git was not pushed to hub and then make a change locally and commited to git. You will encounter an error when pushing the lastest committo hub.
 
-<<<<<<< HEAD
-Local and git were reseted
-=======
-The 2dn latest edition and commit
-
-The latest commit
->>>>>>> 0a742fff6bd88f97ea854d2e60e334341291e405
-
-<<<<<<< HEAD
-Edit Locally and on Git
-=======
-If a file is modified locally but not committed to git, you can update hub 
->>>>>>> 2b0d2553923160d8067dc88d0d1c5643326fdd4e
+remove the trails

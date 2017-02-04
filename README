@@ -1,5 +1,6 @@
 Github command:
-git add .
+git add README # add this specific file
+git add .  # add all the files in the current folder
 git commit -
 
 # remove a commit but keep the change to the 

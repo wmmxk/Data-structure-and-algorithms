@@ -1,3 +1,9 @@
 Github command:
 git add .
 git commit -
+
+# remove a commit but keep the change to the 
+# remove a commit and also revert back to the last version. 
+
+Three elements: your local, your git, your github.
+
